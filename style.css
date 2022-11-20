@@ -1,0 +1,18 @@
+#demo {
+    /* importent */
+    display: flex;
+    height: 900px;
+    ;
+    width: 300px;
+    background-color: aqua;
+}
+
+.demo1 {
+    display: block;
+    height: 200px;
+    ;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    border: 2px solid black;
+}
